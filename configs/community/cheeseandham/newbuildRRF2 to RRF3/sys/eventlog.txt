@@ -1,0 +1,393 @@
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 211C.
+power up + 00:00:01 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 533C.
+power up + 00:00:01 Warning: Macro file config-override.g not found.
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 WiFi module started
+power up + 00:00:04 WiFi reported error: no known networks found
+power up + 00:00:04 WiFi module is idle
+power up + 00:00:06 WiFi reported error: no known networks found
+power up + 00:00:06 WiFi module is idle
+power up + 00:00:08 WiFi reported error: no known networks found
+power up + 00:00:08 WiFi module is idle
+power up + 00:00:10 WiFi reported error: no known networks found
+power up + 00:00:10 WiFi module is idle
+power up + 00:00:12 WiFi reported error: no known networks found
+power up + 00:00:12 WiFi module is idle
+power up + 00:00:14 WiFi reported error: no known networks found
+power up + 00:00:14 WiFi module is idle
+power up + 00:00:17 WiFi reported error: no known networks found
+power up + 00:00:17 WiFi module is idle
+power up + 00:00:19 WiFi reported error: no known networks found
+power up + 00:00:19 WiFi module is idle
+power up + 00:00:21 WiFi reported error: no known networks found
+power up + 00:00:21 WiFi module is idle
+power up + 00:00:23 WiFi reported error: no known networks found
+power up + 00:00:23 WiFi module is idle
+power up + 00:00:25 WiFi reported error: no known networks found
+power up + 00:00:25 WiFi module is idle
+power up + 00:00:28 WiFi reported error: no known networks found
+power up + 00:00:28 WiFi module is idle
+power up + 00:00:30 WiFi reported error: no known networks found
+power up + 00:00:30 WiFi module is idle
+power up + 00:00:32 WiFi reported error: no known networks found
+power up + 00:00:32 WiFi module is idle
+power up + 00:00:34 WiFi reported error: no known networks found
+power up + 00:00:34 WiFi module is idle
+power up + 00:00:36 WiFi reported error: no known networks found
+power up + 00:00:36 WiFi module is idle
+power up + 00:00:39 WiFi reported error: no known networks found
+power up + 00:00:39 WiFi module is idle
+power up + 00:00:41 WiFi reported error: no known networks found
+power up + 00:00:41 WiFi module is idle
+power up + 00:00:43 WiFi reported error: no known networks found
+power up + 00:00:43 WiFi module is idle
+power up + 00:00:45 WiFi reported error: no known networks found
+power up + 00:00:45 WiFi module is idle
+power up + 00:00:47 WiFi reported error: no known networks found
+power up + 00:00:47 WiFi module is idle
+power up + 00:00:50 WiFi reported error: no known networks found
+power up + 00:00:50 WiFi module is idle
+power up + 00:00:52 WiFi reported error: no known networks found
+power up + 00:00:52 WiFi module is idle
+power up + 00:00:54 WiFi reported error: no known networks found
+power up + 00:00:54 WiFi module is idle
+power up + 00:00:56 WiFi reported error: no known networks found
+power up + 00:00:56 WiFi module is idle
+power up + 00:00:58 WiFi reported error: no known networks found
+power up + 00:00:58 WiFi module is idle
+power up + 00:01:01 WiFi reported error: no known networks found
+power up + 00:01:01 WiFi module is idle
+power up + 00:01:03 WiFi reported error: no known networks found
+power up + 00:01:03 WiFi module is idle
+power up + 00:01:05 WiFi reported error: no known networks found
+power up + 00:01:05 WiFi module is idle
+power up + 00:01:07 WiFi reported error: no known networks found
+power up + 00:01:07 WiFi module is idle
+power up + 00:01:09 WiFi reported error: no known networks found
+power up + 00:01:09 WiFi module is idle
+power up + 00:01:11 WiFi reported error: no known networks found
+power up + 00:01:11 WiFi module is idle
+power up + 00:01:14 WiFi reported error: no known networks found
+power up + 00:01:14 WiFi module is idle
+power up + 00:01:16 WiFi reported error: no known networks found
+power up + 00:01:16 WiFi module is idle
+power up + 00:01:18 WiFi reported error: no known networks found
+power up + 00:01:18 WiFi module is idle
+power up + 00:01:20 WiFi reported error: no known networks found
+power up + 00:01:20 WiFi module is idle
+power up + 00:01:22 WiFi reported error: no known networks found
+power up + 00:01:22 WiFi module is idle
+power up + 00:01:25 WiFi reported error: no known networks found
+power up + 00:01:25 WiFi module is idle
+power up + 00:01:27 WiFi reported error: no known networks found
+power up + 00:01:27 WiFi module is idle
+power up + 00:01:29 WiFi reported error: no known networks found
+power up + 00:01:29 WiFi module is idle
+power up + 00:01:31 WiFi reported error: no known networks found
+power up + 00:01:31 WiFi module is idle
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 211C.
+power up + 00:00:01 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 533C.
+power up + 00:00:01 Warning: Macro file config-override.g not found.
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 WiFi module started
+power up + 00:00:02 Error: Bad command: AT
+power up + 00:00:04 WiFi reported error: no known networks found
+power up + 00:00:04 WiFi module is idle
+power up + 00:00:04 Error: Attempt to move motors when VIN is not in range
+power up + 00:00:05 Error: Bad command: AT
+power up + 00:00:06 WiFi reported error: no known networks found
+power up + 00:00:06 WiFi module is idle
+power up + 00:00:08 WiFi reported error: no known networks found
+power up + 00:00:08 WiFi module is idle
+power up + 00:00:08 Error: Bad command: AT
+power up + 00:00:10 WiFi reported error: no known networks found
+power up + 00:00:10 WiFi module is idle
+power up + 00:00:11 Error: Bad command: ~
+power up + 00:00:12 WiFi reported error: no known networks found
+power up + 00:00:12 WiFi module is idle
+power up + 00:00:14 WiFi reported error: no known networks found
+power up + 00:00:14 WiFi module is idle
+power up + 00:00:17 WiFi reported error: no known networks found
+power up + 00:00:17 WiFi module is idle
+power up + 00:00:19 WiFi reported error: no known networks found
+power up + 00:00:19 WiFi module is idle
+power up + 00:00:21 WiFi reported error: no known networks found
+power up + 00:00:21 WiFi module is idle
+power up + 00:00:23 WiFi reported error: no known networks found
+power up + 00:00:23 WiFi module is idle
+power up + 00:00:25 WiFi reported error: no known networks found
+power up + 00:00:25 WiFi module is idle
+power up + 00:00:28 WiFi reported error: no known networks found
+power up + 00:00:28 WiFi module is idle
+power up + 00:00:30 WiFi reported error: no known networks found
+power up + 00:00:30 WiFi module is idle
+power up + 00:00:32 WiFi reported error: no known networks found
+power up + 00:00:32 WiFi module is idle
+power up + 00:00:34 WiFi reported error: no known networks found
+power up + 00:00:34 WiFi module is idle
+power up + 00:00:37 WiFi reported error: no known networks found
+power up + 00:00:37 WiFi module is idle
+power up + 00:00:39 WiFi reported error: no known networks found
+power up + 00:00:39 WiFi module is idle
+power up + 00:00:41 WiFi reported error: no known networks found
+power up + 00:00:41 WiFi module is idle
+power up + 00:00:43 WiFi reported error: no known networks found
+power up + 00:00:43 WiFi module is idle
+power up + 00:00:45 WiFi reported error: no known networks found
+power up + 00:00:45 WiFi module is idle
+power up + 00:00:48 WiFi reported error: no known networks found
+power up + 00:00:48 WiFi module is idle
+power up + 00:00:50 WiFi reported error: no known networks found
+power up + 00:00:50 WiFi module is idle
+power up + 00:00:52 WiFi reported error: no known networks found
+power up + 00:00:52 WiFi module is idle
+power up + 00:00:54 WiFi reported error: no known networks found
+power up + 00:00:54 WiFi module is idle
+power up + 00:00:56 WiFi reported error: no known networks found
+power up + 00:00:56 WiFi module is idle
+power up + 00:00:59 WiFi reported error: no known networks found
+power up + 00:00:59 WiFi module is idle
+power up + 00:01:01 WiFi reported error: no known networks found
+power up + 00:01:01 WiFi module is idle
+power up + 00:01:03 WiFi reported error: no known networks found
+power up + 00:01:03 WiFi module is idle
+power up + 00:01:05 WiFi reported error: no known networks found
+power up + 00:01:05 WiFi module is idle
+power up + 00:01:07 WiFi reported error: no known networks found
+power up + 00:01:07 WiFi module is idle
+power up + 00:01:10 WiFi reported error: no known networks found
+power up + 00:01:10 WiFi module is idle
+power up + 00:01:12 WiFi reported error: no known networks found
+power up + 00:01:12 WiFi module is idle
+power up + 00:01:14 WiFi reported error: no known networks found
+power up + 00:01:14 WiFi module is idle
+power up + 00:01:16 WiFi reported error: no known networks found
+power up + 00:01:16 WiFi module is idle
+power up + 00:01:18 WiFi reported error: no known networks found
+power up + 00:01:18 WiFi module is idle
+power up + 00:01:21 WiFi reported error: no known networks found
+power up + 00:01:21 WiFi module is idle
+power up + 00:01:23 WiFi reported error: no known networks found
+power up + 00:01:23 WiFi module is idle
+power up + 00:01:25 WiFi reported error: no known networks found
+power up + 00:01:25 WiFi module is idle
+power up + 00:01:27 WiFi reported error: no known networks found
+power up + 00:01:27 WiFi module is idle
+power up + 00:01:29 WiFi reported error: no known networks found
+power up + 00:01:29 WiFi module is idle
+power up + 00:01:32 WiFi reported error: no known networks found
+power up + 00:01:32 WiFi module is idle
+power up + 00:01:34 WiFi reported error: no known networks found
+power up + 00:01:34 WiFi module is idle
+power up + 00:01:36 WiFi reported error: no known networks found
+power up + 00:01:36 WiFi module is idle
+power up + 00:01:38 WiFi reported error: no known networks found
+power up + 00:01:38 WiFi module is idle
+power up + 00:01:40 WiFi reported error: no known networks found
+power up + 00:01:40 WiFi module is idle
+power up + 00:01:43 WiFi reported error: no known networks found
+power up + 00:01:43 WiFi module is idle
+power up + 00:01:45 WiFi reported error: no known networks found
+power up + 00:01:45 WiFi module is idle
+power up + 00:01:46 Error: Bad command: xð~M1156
+power up + 00:01:47 WiFi reported error: no known networks found
+power up + 00:01:47 WiFi module is idle
+power up + 00:01:49 WiFi reported error: no known networks found
+power up + 00:01:49 WiFi module is idle
+power up + 00:01:51 WiFi reported error: no known networks found
+power up + 00:01:51 WiFi module is idle
+power up + 00:01:54 WiFi reported error: no known networks found
+power up + 00:01:54 WiFi module is idle
+power up + 00:01:56 WiFi reported error: no known networks found
+power up + 00:01:56 WiFi module is idle
+power up + 00:01:58 WiFi reported error: no known networks found
+power up + 00:01:58 WiFi module is idle
+power up + 00:02:00 WiFi reported error: no known networks found
+power up + 00:02:00 WiFi module is idle
+power up + 00:02:02 WiFi reported error: no known networks found
+power up + 00:02:02 WiFi module is idle
+power up + 00:02:05 WiFi reported error: no known networks found
+power up + 00:02:05 WiFi module is idle
+power up + 00:02:07 WiFi reported error: no known networks found
+power up + 00:02:07 WiFi module is idle
+power up + 00:02:09 WiFi reported error: no known networks found
+power up + 00:02:09 WiFi module is idle
+power up + 00:02:11 WiFi reported error: no known networks found
+power up + 00:02:11 WiFi module is idle
+power up + 00:02:13 WiFi reported error: no known networks found
+power up + 00:02:13 WiFi module is idle
+power up + 00:02:16 WiFi reported error: no known networks found
+power up + 00:02:16 WiFi module is idle
+power up + 00:02:18 WiFi reported error: no known networks found
+power up + 00:02:18 WiFi module is idle
+power up + 00:02:20 WiFi reported error: no known networks found
+power up + 00:02:20 WiFi module is idle
+power up + 00:02:22 WiFi reported error: no known networks found
+power up + 00:02:22 WiFi module is idle
+power up + 00:02:24 WiFi reported error: no known networks found
+power up + 00:02:24 WiFi module is idle
+power up + 00:02:26 Error: M587: Failed to retrieve network list
+power up + 00:02:27 Error retrieving WiFi status message: bad reply format version
+power up + 00:02:27 WiFi module is idle
+power up + 00:02:29 WiFi reported error: no known networks found
+power up + 00:02:29 WiFi module is idle
+power up + 00:02:31 WiFi reported error: no known networks found
+power up + 00:02:31 WiFi module is idle
+power up + 00:02:33 WiFi reported error: no known networks found
+power up + 00:02:33 WiFi module is idle
+power up + 00:02:35 WiFi reported error: no known networks found
+power up + 00:02:35 WiFi module is idle
+power up + 00:02:38 WiFi reported error: no known networks found
+power up + 00:02:38 WiFi module is idle
+power up + 00:02:40 WiFi reported error: no known networks found
+power up + 00:02:40 WiFi module is idle
+power up + 00:02:42 WiFi reported error: no known networks found
+power up + 00:02:42 WiFi module is idle
+power up + 00:02:44 WiFi reported error: no known networks found
+power up + 00:02:44 WiFi module is idle
+power up + 00:02:46 WiFi reported error: no known networks found
+power up + 00:02:46 WiFi module is idle
+power up + 00:02:49 WiFi reported error: no known networks found
+power up + 00:02:49 WiFi module is idle
+power up + 00:02:51 WiFi reported error: no known networks found
+power up + 00:02:51 WiFi module is idle
+power up + 00:02:53 WiFi reported error: no known networks found
+power up + 00:02:53 WiFi module is idle
+power up + 00:02:55 Error: M587: Failed to add SSID to remembered list
+power up + 00:02:55 Error retrieving WiFi status message: bad reply format version
+power up + 00:02:55 WiFi module is idle
+power up + 00:02:57 WiFi reported error: no known networks found
+power up + 00:02:57 WiFi module is idle
+power up + 00:03:00 WiFi reported error: no known networks found
+power up + 00:03:00 WiFi module is idle
+power up + 00:03:02 WiFi reported error: no known networks found
+power up + 00:03:02 WiFi module is idle
+power up + 00:03:04 WiFi reported error: no known networks found
+power up + 00:03:04 WiFi module is idle
+power up + 00:03:06 WiFi reported error: no known networks found
+power up + 00:03:06 WiFi module is idle
+power up + 00:03:08 WiFi reported error: no known networks found
+power up + 00:03:08 WiFi module is idle
+power up + 00:03:09 Error: M587: Failed to retrieve network list
+power up + 00:03:11 Error retrieving WiFi status message: bad reply format version
+power up + 00:03:11 WiFi module is idle
+power up + 00:03:13 WiFi reported error: no known networks found
+power up + 00:03:13 WiFi module is idle
+power up + 00:03:15 WiFi reported error: no known networks found
+power up + 00:03:15 WiFi module is idle
+power up + 00:03:17 WiFi reported error: no known networks found
+power up + 00:03:17 WiFi module is idle
+power up + 00:03:19 WiFi reported error: no known networks found
+power up + 00:03:19 WiFi module is idle
+power up + 00:03:22 WiFi reported error: no known networks found
+power up + 00:03:22 WiFi module is idle
+power up + 00:03:24 WiFi reported error: no known networks found
+power up + 00:03:24 WiFi module is idle
+power up + 00:04:34 WiFi module is connected to access point Workshop, IP address 192.168.0.33
+power up + 00:04:43 HTTP client 192.168.0.32 login succeeded
+2020-08-17 13:00:00 Date and time set at power up + 00:04:43
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 211C.
+power up + 00:00:01 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 533C.
+power up + 00:00:01 Warning: Macro file config-override.g not found.
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 WiFi module started
+power up + 00:00:07 WiFi module is connected to access point Workshop, IP address 192.168.0.33
+power up + 00:00:07 HTTP client 192.168.0.32 login succeeded
+2020-08-17 13:02:08 Date and time set at power up + 00:00:07
+2020-08-17 13:09:41 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: M950 command is not supported
+power up + 00:00:00 Warning: M950 command is not supported
+power up + 00:00:00 Warning: M950 command is not supported
+power up + 00:00:00 Warning: M308 command is not supported
+power up + 00:00:00 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 211C.
+power up + 00:00:01 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 533C.
+power up + 00:00:01 Warning: Macro file config-override.g not found.
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 WiFi module started
+power up + 00:00:07 WiFi module is connected to access point Workshop, IP address 192.168.0.33
+power up + 00:00:09 HTTP client 192.168.0.32 login succeeded
+2020-08-17 13:09:55 Date and time set at power up + 00:00:09
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M308 command is not supported
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 211C.
+power up + 00:00:01 Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 533C.
+power up + 00:00:01 Warning: Macro file config-override.g not found.
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 Warning: M950 command is not supported
+power up + 00:00:01 WiFi module started
+power up + 00:00:07 WiFi module is connected to access point Workshop, IP address 192.168.0.33
+power up + 00:00:08 HTTP client 192.168.0.32 login succeeded
+2020-08-17 13:11:37 Date and time set at power up + 00:00:08
